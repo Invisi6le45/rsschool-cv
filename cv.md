@@ -1,3 +1,3 @@
-![My foto] (My_foto.png)
+![My foto] (/My_foto.png)
 #Prusov Nikolai
 
