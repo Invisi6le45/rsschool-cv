@@ -11,9 +11,10 @@ __Telegram:__ @Invisi6Ie <br>
 <br>
 
 ## About Me ##
-
+I have beeng working in the team many years and i can made a friendly atmosphere.<br>
+I have flexible brain and i like hard tasks. I like to study and develop. <br>
 May the force come with you.
-
+<br>
 ## Code example: ##
 
 ```
