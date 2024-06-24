@@ -4,6 +4,8 @@
 # Prusov Nikolai
 <br>
 
+---
+
 ## __Contact information:__ ##
 __Phone:__  +375(29)218-27-25 <br>
 __Email:__   n_prusov@inbox.ru <br>
@@ -15,6 +17,13 @@ I have beeng working in the team many years and i can made a friendly atmosphere
 I have flexible brain and i like hard tasks. I like to study and develop. <br>
 May the force come with you.
 <br>
+
+## Skills and Proficiency ##
+* HTML
+* CSS/SASS
+* JavaScript (Basic)
+* Git (Basic)
+
 ## Code example: ##
 
 ```
