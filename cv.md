@@ -1,4 +1,4 @@
-![![My_foto](My_foto.jpg)]
+![![My_foto](My_photo.jpg)]
 
 # Prusov Nikolai
 
