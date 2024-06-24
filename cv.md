@@ -17,10 +17,10 @@ May the force come with you.
 <br>
 
 ## Skills and Proficiency ##
-* HTML
-* CSS/SASS
-* JavaScript (Basic)
-* Git (Basic)
+* HTML (Basic)
+* CSS/SASS (Basic)
+* JavaScript (In progress)
+* Git (In progress)
 
 ## Code example: ##
 
@@ -41,8 +41,17 @@ describe("Tests", () => {
 ## Education ##
 
 Vitebsk State Politehnikal college
-* Production of radio-electronic devices - (Technician technologist of the radio-electronic industry)
+* Production of radio-electronic devices - *(Technician technologist of the radio-electronic industry)*
 
 Vitebsk State Tehnological University
-* Automation of Technological Processes and Production (Light Industry)- (automation engineer)
+* Automation of Technological Processes and Production (Light Industry)- *(automation engineer)*
 
+HTML Acaademy (free tasks)
+
+BEONMAX HTML / CSS (Secertificate № 3A8B97B2F783640C41FA49A191361AE7)
+
+## Languages ##
+
+* Russian (native);
+* Belarusian (native);
+* English (A2)
