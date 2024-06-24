@@ -4,8 +4,6 @@
 # Prusov Nikolai
 <br>
 
----
-
 ## __Contact information:__ ##
 __Phone:__  +375(29)218-27-25 <br>
 __Email:__   n_prusov@inbox.ru <br>
@@ -39,3 +37,12 @@ describe("Tests", () => {
   });
 });
 ```
+
+## Education ##
+
+Vitebsk State Politehnikal college
+* Production of radio-electronic devices - (Technician technologist of the radio-electronic industry)
+
+Vitebsk State Tehnological University
+* Automation of Technological Processes and Production (Light Industry)- (automation engineer)
+
