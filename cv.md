@@ -8,6 +8,7 @@
 __Phone:__  +375(29)218-27-25 <br>
 __Email:__   n_prusov@inbox.ru <br>
 __Telegram:__ @Invisi6Ie <br>
+__Discord:__ Nikolai(@Invisi6le) <br>
 <br>
 
 ## About Me ##
@@ -21,6 +22,7 @@ May the force come with you.
 * CSS/SASS (Basic)
 * JavaScript (In progress)
 * Git (In progress)
+<br>
 
 ## Code example: ##
 
@@ -37,6 +39,7 @@ describe("Tests", () => {
   });
 });
 ```
+<br>
 
 ## Education ##
 
@@ -49,6 +52,7 @@ Vitebsk State Tehnological University
 HTML Acaademy (free tasks)
 
 BEONMAX HTML / CSS (Secertificate № 3A8B97B2F783640C41FA49A191361AE7)
+<br>
 
 ## Languages ##
 
