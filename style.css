@@ -28,9 +28,17 @@ footer{
     border: 1px solid red;
 }
 
+
 .container {
     height: 100px;
     max-width: 1440px;
     margin: 0 auto;
     border: 1px solid blue;
+}
+
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
