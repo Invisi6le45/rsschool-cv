@@ -34,7 +34,7 @@ main {
 
 
 footer{
-    border: 1px solid red;
+    background-color: #829985;
 }
 
 
@@ -90,7 +90,6 @@ footer{
 .section{
     margin-top: 10px;
     width: 50%;
-    /*border: 1px solid rebeccapurple;*/
 }
 
 .section-title {
@@ -140,6 +139,42 @@ footer{
 }
 
 
+.footer-container {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-left {
+    display: inline-block;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+.footer-text {
+    display: inline-block;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #4d2323;
+}
+
+.footer-right {
+    margin-top: 10px;
+    height: 50px;
+}
+
+.footer-img {
+    width: 70px;
+}
+
+.code-pre {
+
+    font-size: 14px;
+}
+
+
 @media (max-width: 1170px) {
     .nav-link {
         font-size: 22px;
@@ -167,7 +202,5 @@ footer{
     .section-title {
         text-align: center;
     }
-
-
 }
  
