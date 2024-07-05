@@ -1,4 +1,4 @@
-![![My_foto](My_photo1.jpg)]
+![![My_foto](./assets/img/My_photo1.jpg)]
 <br>
 
 # Prusov Nikolai
