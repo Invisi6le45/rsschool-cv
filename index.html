@@ -10,9 +10,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
 </head>
+
+
 <body>
     <header class="header">
-       <div class="container">
+       <div class="container header-container">
         <nav class="nav">
             <ul class="nav-list">
                 <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
@@ -25,13 +27,26 @@
         </nav>
        </div>
     </header>
-    <main class="main main-container">
-        <div class="container">
-            <section class="section" id="profile">
-                <img src="./assets/img/My_photo2.jpg" class="section-foto" alt="My photo">
-                <h1 class="section-title">Prusov Nikolai</h1>
+
+
+    <main class="main">
+        <div class="container main-container">
+
+
+            <section class="section section-profile" id="profile">
+                <img src="./assets/img/My_photo2.jpg" class="section-profile-foto" alt="My photo">
+                <div class="profile-title">
+                    <h1 class="section-title section-profile-title1">
+                        Prusov Nikolai
+                    </h1>
+                    <div class="profile-line"></div>
+                    <h2 class="section-title">Junior Front-End Developer</h2>
+                </div>
             </section>
 
+
+            <section class="section-line">
+            </section>
 
             <section class="section" id="contacts">
                 <h2 class="section-title">Contact information</h2>
@@ -40,7 +55,7 @@
                     <li class="contacts-item"><p class="contacts-item-text"><b>Phone: </b>+375(29)218-27-25</p></li>
                     <li class="contacts-item"><p class="contacts-item-text"><b>EMail: </b>n_prusov@inbox.ru</p></li>
                     <li class="contacts-item"><p class="contacts-item-text"><b>Telegram </b>@Invisi6Ie</p></li>
-                    <li class="contacts-item"><p class="contacts-item-text"><b>Discord </b>@Invisi6Ie</p></li>
+                    <li class="contacts-item"><p class="contacts-item-text"><b>Discord </b>Nikolai(@Invisi6le)</p></li>
                 </ul>
             </section>
 
@@ -88,14 +103,14 @@ describe("Tests", () => {
                 <h2 class="section-title">Education</h2>
                 <h3 class="education-institution">Vitebsk State Politehnikal college</h3>
                 <ul class="education-list">
-                    <li class="education-item"><p class="education-item-text">Production of radio-electronic devices - (Technician technologist of the radio-electronic industry)</p></li>
+                    <li class="education-item"><p class="education-item-text">Production of radio-electronic devices - <br> (Technician technologist of the radio-electronic industry)</p></li>
                 </ul>
                 <h3 class="education-institution">Vitebsk State Tehnological University</h3>
                 <ul class="education-list">
-                    <li class="education-item"><p class="education-item-text">Automation of Technological Processes and Production (Light Industry)- (automation engineer)</p></li>
+                    <li class="education-item"><p class="education-item-text">Automation of Technological Processes and Production <br> (Light Industry)- (automation engineer)</p></li>
                 </ul>
                 <h3 class="education-institution">HTML Acaademy (free tasks)</h3>
-                <h3 class="education-institution">BEONMAX HTML / CSS (Secertificate № 3A8B97B2F783640C41FA49A191361AE7)</h3>
+                <h3 class="education-institution">BEONMAX HTML / CSS <br> (Secertificate № 3A8B97B2F783640C41FA49A191361AE7)</h3>
             </section>
 
 
